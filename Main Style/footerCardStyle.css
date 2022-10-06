@@ -1,0 +1,111 @@
+.card-footer{
+    background: rgb(36,31,64);
+    padding: 15px 10px;
+}
+  
+.botMainSubDiv-SV22021{
+    display:flex;
+    align-items: center;
+}
+  
+.botMainContainer-SV12021{
+    flex: 1;
+    text-transform: uppercase;
+    font-size: 0.76rem;
+    margin: 0.4rem;
+    letter-spacing: 2px;
+    color: rgb(128,130,169);
+}
+  
+#specialpiggy{
+    display: block;
+    letter-spacing: 0px;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 0px;
+    font-size: 1.13rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-family: 'poppins', sans-serif;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.specialdoggyeater{
+    display: block;
+    letter-spacing: 0px;
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    font-size: 1.13rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-family: 'poppins', sans-serif;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.test12:hover{
+    color:rgb(110, 125, 251);
+    text-decoration: underline;
+    
+}
+  
+.creatorImageProfile-SV12021{
+    
+    display: inline-block;
+    padding: 4px;
+    background: rgb(108, 105, 255);
+    margin: auto;
+    border-radius: 50%;
+    background-size: 200% 200%;
+    animation: animated-gradient 2s linear infinite;
+    max-width: 100%;
+}
+  
+.creatorImageProfileSource-SV12021{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    max-width: 100%;
+} 
+.botMainHeading-SV12021{
+    margin-top: 0rem;
+    margin: 0.8rem;
+    
+}
+.botMainHeading-SV12021{
+    font-family: 'poppins', sans-serif;
+    letter-spacing: 4px;
+    font-weight: bold;
+    color: #f2f2f2;
+    
+}
+.botMainHeading-SV12021:hover{
+    color: rgb(110, 125, 251);
+    text-decoration: underline;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.discord-tag-SV32021{
+    flex: 1;
+    font-family: 'poppins', sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 2.5px;
+    position: relative;
+    margin-bottom: 10px;
+    margin-top:-5px;
+    font-weight: bold;
+    padding-top: 0px;
+    vertical-align: text-top;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.discord-tag-SV32021:hover{
+    color:rgb(110, 125, 251);
+    text-decoration: underline;
+}
+.specialdoggyeater:hover{
+    color:rgb(110, 125, 251);
+    text-decoration: underline;
+}
